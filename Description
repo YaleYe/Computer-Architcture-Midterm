@@ -1,0 +1,4 @@
+Coding Language: C
+
+Using Fork to create child provess to speed up the calculation and comapre to Standard single processor time
+#fork, MultiThreading
